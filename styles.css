@@ -54,8 +54,8 @@
   width: 400px;
   height: 400px;
   border-radius: 1%;
-  margin-left: 200px;*/
-  margin: auto;
+  margin-left: 110px;
+
 
 }
 
@@ -89,4 +89,11 @@
 }
 .card-body{
   text-align: center;
+}
+.childhood{
+  padding-top: 250px;
+  padding-bottom: 69px;
+  padding-left: 147px;
+  padding-right: 147px;
+  text-align:center;
 }
