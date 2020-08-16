@@ -1,0 +1,91 @@
+.heading-big {
+  font-family: Montserrat;
+  font-weight: 900;
+  line-height: 1.5;
+  font-size: 3.5rem;
+}
+.heading {
+  font-family: Montserrat;
+  font-weight: 900;
+  line-height: 1.5;
+  font-size: 3.5rem;
+  color: #e8505b;
+}
+.papa-img {
+  border-radius: 5%;
+  width: 65%;
+  /* transform: rotate(10deg); */
+  position: absolute;
+  right: 20%;
+}
+.para{
+  font-family: Montserrat;
+  font-weight: 300;
+  line-height: 1.5;
+  font-size: 1.5rem;
+}
+.para1{
+  font-family: Montserrat;
+  font-weight: 700;
+  line-height: 1.5;
+  font-size: 1rem;
+  font-family:sans-serif;
+  color: #e8505b;
+}
+#testimonials {
+
+  color: #216353;
+  background-image: url(bg-6.png);
+
+}
+#bachpan{
+  padding-bottom: 30px;
+  padding: 7% 15%;
+  text-align:center;
+}
+
+.container-fluid {
+  padding-bottom: 60px;
+  padding: 7% 15%;
+}
+
+.testimonial-img {
+  width: 400px;
+  height: 400px;
+  border-radius: 1%;
+  /*margin-left: 350px;*/
+  margin: auto;
+
+}
+
+#title {
+  background-color: #fabea7;
+  color: #fff;
+  text-align: left;
+}
+
+#title .container-fluid {
+  padding: 3% 15% 7%;
+}
+
+.pricing-img {
+  width: 275px;
+  height: 400px;
+  margin: 2% auto;
+}
+
+.pricing-col {
+  padding: 3% 2%;
+}
+
+.pricing-h {
+  color: #21bf73;
+}
+
+
+.card:hover {
+  background-color: #effcef;
+}
+.card-body{
+  text-align: center;
+}
