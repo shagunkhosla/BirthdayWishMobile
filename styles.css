@@ -3,6 +3,7 @@
   font-weight: 900;
   line-height: 1.5;
   font-size: 4rem;
+   text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
 }
 .heading {
   font-family: Montserrat;
@@ -96,4 +97,7 @@
   padding-left: 147px;
   padding-right: 147px;
   text-align:center;
+}
+.footer{
+  text-align: center;
 }
